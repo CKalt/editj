@@ -1,0 +1,6 @@
+./components/JsonArray.js
+./components/JsonScalar.js
+./components/JsonObject.js
+./components/JsonViewer.js
+./src/pages/_app.js
+./src/pages/index.js

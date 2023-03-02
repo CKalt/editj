@@ -1,4 +1,4 @@
-// JsonScalar.js
+// components/JsonScalar.js
 import React, { useState } from "react";
 
 const JsonScalar = ({ json }) => {

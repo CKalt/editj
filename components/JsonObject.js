@@ -1,4 +1,4 @@
-// JsonObject.js
+// components/JsonObject.js
 import React from "react";
 import JsonNode from "./JsonNode";
 

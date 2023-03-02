@@ -1,4 +1,4 @@
-// JsonArray.js
+// components/JsonArray.js
 import React from "react";
 import JsonNode from "./JsonNode";
 

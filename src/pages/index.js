@@ -1,3 +1,4 @@
+// src/pages/index.js
 import React from "react";
 import JsonViewer from "../../components/JsonViewer";
 
